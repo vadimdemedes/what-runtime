@@ -1,0 +1,14 @@
+{
+  "name": "what-runtime",
+  "version": "1.0.0",
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "description": "Detect runtime, Node.js or io.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdemedes/what-runtime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vdemedes/what-runtime/issues"
+  }
+}

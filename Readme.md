@@ -19,6 +19,6 @@ var runtime = require('what-runtime');
 // runtime = 'iojs' if io.js
 ```
 
-## License
+### License
 
 WTFPL – Do What the Fuck You Want to Public License
